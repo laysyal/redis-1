@@ -4,7 +4,7 @@ import org.junit.Test;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 
-public class exJedisPool {
+public class JedisPoolexample {
     @Test
     public void test2(){
         //1.创建连接池对象
